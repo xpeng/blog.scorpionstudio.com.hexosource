@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/xpeng/blog.scorpionstudio.com.git
-	branch = master
