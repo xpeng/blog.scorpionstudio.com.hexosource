@@ -1,0 +1,37 @@
+slogan: "XPeng's Dreams"
+
+menu:
+  - title: Archives
+    url: archives
+    intro: "All the articles."
+    icon: "fa fa-archive"
+  - title: Categories
+    url: categories
+    intro: "All the categories."
+    icon: "fa fa-folder"
+  - title: Tags
+    url: tags
+    intro: "All the tags."
+    icon: "fa fa-tags"
+  - title: About
+    url: about
+    intro: "About me."
+    icon: "fa fa-user"
+
+links:
+  - title: "My LinkedIn"
+    url: http://www.linkedin.com/in/tompang/
+    intro: "My Linkin account."
+    icon: "fa fa-linkedin"
+
+widgets:
+- search
+- category
+- tagcloud
+- recent_posts  
+- links
+
+rss: 
+fancybox: true
+favicon: favicon.png
+google_analytics: 
