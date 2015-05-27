@@ -20,9 +20,18 @@ menu:
 
 links:
   - title: "My LinkedIn"
-    url: http://www.linkedin.com/in/tompang/
+    url: https://www.linkedin.com/in/tompang/
     intro: "My Linkin account."
     icon: "fa fa-linkedin"
+  - title: "My Facebook"
+    url: https://www.facebook.com/xiaopplus
+    intro: "My Facebook."
+    icon: "fa fa-facebook"
+  - title: "T-Universe"
+    url: http://www.t-universe.com/
+    intro: "T-Universe Game"
+    icon: ""
+
 
 widgets:
 - search
