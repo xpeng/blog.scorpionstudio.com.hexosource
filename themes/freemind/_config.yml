@@ -30,7 +30,7 @@ links:
   - title: "T-Universe"
     url: http://www.t-universe.com/
     intro: "T-Universe Game"
-    icon: ""
+    icon: "fa fa-external-link"
 
 
 widgets:
